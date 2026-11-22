@@ -293,7 +293,7 @@ optimization.
 ------------------------------------------------------------------------
 
 ::: {align="center"}
-**Author:** [priyanshi2807](https://github.com/priyanshi2807)
+**Author:** thesujalsingh14(github.com/thesujalsingh14)
 
 *DBMS Laboratory --- Experiments 1--10*
 :::
